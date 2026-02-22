@@ -264,7 +264,11 @@ Focus:      LLMs | GenAI | NLP | Machine Learning | MLOps
 ---
 
 ## 🐍 Contribution Snake
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mighty2Skiddie/Mighty2Skiddie/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mighty2Skiddie/Mighty2Skiddie/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Mighty2Skiddie/Mighty2Skiddie/output/github-contribution-grid-snake.svg" />
+</picture>
 ![snake gif](https://github.com/Mighty2Skiddie/Mighty2Skiddie/blob/output/github-contribution-grid-snake.svg)
 ![snake gif](https://github.com/Mighty2Skiddie/Mighty2Skiddie/blob/output/github-contribution-grid-snake-dark.svg)
 ---
