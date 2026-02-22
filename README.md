@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+🚀 About Me<br><br>Hi, I’m Pranav Sharma — an AI Engineer & Machine Learning Developer passionate about building intelligent systems that solve real-world problems at scale. My work focuses on turning ideas into production-ready AI solutions, combining Machine Learning, NLP, and Large Language Models (LLMs) with robust engineering practices.<br><br>Over the past year, I’ve designed and deployed end-to-end AI systems that improved operational efficiency by up to 45%, reduced latency by 40%, and delivered high-accuracy predictive models (90–98% across domains like NLP and healthcare). I enjoy working across the full lifecycle — from data preprocessing and model development to API deployment and optimization — ensuring solutions are practical, scalable, and impactful.<br><br>My core interests include:<br><br>🤖 LLM & Agentic AI Systems (automation, reasoning, orchestration)<br><br>📊 Predictive Machine Learning & NLP<br><br>⚙️ Production AI Engineering & MLOps<br><br>🚀 Real-time AI Applications & Optimization<br><br>I believe the future of AI lies not just in smarter models, but in reliable systems that create measurable value. That’s why I focus on building solutions that bridge the gap between research and real-world deployment.<br><br>🛠️ Tech Stack<br><br>Languages: Python, SQL<br>ML/AI: Scikit-learn, TensorFlow, LightGBM, NLP, LLMs, Transformers<br>Frameworks: FastAPI, LangChain, Hugging Face<br>Tools: Docker, Git, Jupyter, APIs<br>Data: Pandas, NumPy, Matplotlib, Seaborn<br>Concepts: MLOps, Model Deployment, Automation, Scalable Systems<br><br>🌟 What You’ll Find Here<br><br>This GitHub contains projects related to:<br><br>✅ Machine Learning & Predictive Modeling<br>✅ NLP & Generative AI<br>✅ AI Agents & Automation Systems<br>✅ Data Science & Analytics<br>✅ Real-world AI Applications<br><br>Each repository reflects my approach: clean architecture, practical impact, and continuous improvement.<br><br>🤝 Let’s Connect<br><br>I’m always open to collaborating on interesting AI projects or discussing new ideas.<br><br>💼 LinkedIn: https://www.linkedin.com/in/pranav-sharma-0190131b8/<br><br>📧 Email: ps939919@gmail.com
 
-<!--
-**Mighty2Skiddie/Mighty2Skiddie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/pranav-sharma-0190131b8/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ps939919@gmail.com) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Mighty2Skiddie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Mighty2Skiddie&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mighty2Skiddie&theme=blueberry&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Mighty2Skiddie&theme=blueberry&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Mighty2Skiddie&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
